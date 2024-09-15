@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-zize: 14px;
+    line-height: 1.5;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+}
